@@ -1,0 +1,6 @@
+model,cv_auc,accuracy,precision,recall,f1,test_auc
+Logistic Regression,0.9959,0.9825,0.9861,0.9861,0.9861,0.9954
+SVM (RBF),0.9956,0.9825,0.9861,0.9861,0.9861,0.995
+Neural Network (MLP),0.995,0.9649,0.9857,0.9583,0.9718,0.9937
+Gradient Boosting,0.992,0.9561,0.9467,0.9861,0.966,0.9907
+Random Forest,0.9904,0.9474,0.9583,0.9583,0.9583,0.9937
